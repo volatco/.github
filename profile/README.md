@@ -1,3 +1,3 @@
-## Welcome to the Volatco Project
+## Asynchronous computing ahead of its time.
 
 
