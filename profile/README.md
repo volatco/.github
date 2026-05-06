@@ -1,3 +1,1 @@
-## Asynchronous computing ahead of its time.
-
-
+## _asynchronous computing ahead of its time_
