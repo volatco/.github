@@ -1,1 +1,1 @@
-## _asynchronous computing ahead and [fox](https://github.com/ai-foxx) its time_
+## _asynchronous computing do the right job at exactly the right time_
